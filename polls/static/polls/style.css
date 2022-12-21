@@ -1,12 +1,12 @@
 body{
     background: white url("images/background.png") no-repeat;
-    background-position: right-bottom;
+    background-position: center;
 }
 
-li a{
+a{
     color: green;
 }
 h1{
-    color: blue;
+    color: red;
 }
 
